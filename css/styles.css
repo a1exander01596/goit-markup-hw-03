@@ -273,7 +273,13 @@ img {
 
 .our-team-list-title {
   margin-bottom: 8px;
+  text-align: center;
 }
+
+.our-team-list-text {
+  text-align: center;
+}
+
 .our-team-list-item {
   display: flex;
   flex-direction: column;
